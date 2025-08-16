@@ -83,7 +83,7 @@ GET /get_threat_alerts/ → Retrieve all saved alerts.
 
 ⚙️ Setup & Installation
 # Clone repo
-git clone https://github.com/your-username/violence-detection.git
+git clone https://github.com/kushsengar/violence-detection.git
 cd violence-detection
 
 # Create virtual environment
