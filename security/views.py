@@ -26,8 +26,7 @@
 # encoded_username_database = quote_plus(database_username)
 # encoded_password_database = quote_plus(database_password)
 # mongodb_uri = f"mongodb+srv://{encoded_username_database}:{encoded_password_database}@anujjsengar.2ordy.mongodb.net/demo?retryWrites=true&w=majority"
-# # mongodb_uri="mongodb+srv://anujjsengar:anujjsengar@anujjsengar.2ordy.mongodb.net/?retryWrites=true&w=majority&appName=anujjsengar"
-# client = MongoClient(mongodb_uri)
+# # mongodb_uri="mongodb+srv://
 # db=client['test']
 # collection=db['threatalerts']
 # # ✅ Fix: Load model safely
